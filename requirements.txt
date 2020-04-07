@@ -1,0 +1,4 @@
+flask
+flask-restful
+gensim
+smart_open
